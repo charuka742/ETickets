@@ -1,6 +1,12 @@
 ﻿namespace ETickets.Data.Enums
 {
-    public class MovieCatergory
+    public enum MovieCatergory
     {
+        Action = 1,
+        Comedy,
+        Horror, 
+        Drama, 
+        Documetry
+
     }
 }
