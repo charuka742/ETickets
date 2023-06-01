@@ -1,4 +1,4 @@
-﻿namespace ETickets.Data
+﻿namespace ETickets.Data.Enums
 {
     public class MovieCatergory
     {
